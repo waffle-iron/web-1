@@ -25,8 +25,21 @@ publishDir = "docs"
     name = "Twitter"
     url = "https://twitter.com/timtrice"
 
-[params]
+[Params]
+    intro = true
+    headline = "My headline"
     description = "Data Management and Analysis"
+    github = "https://github.com/timtrice"
+    linkedin = "https://www.linkedin.com/in/timtrice/"
+    twitter = "https://twitter.com/timtrice"
+    stackoverflow = "http://stackoverflow.com/users/2576935/timtrice"
+    email = "tim.trice@gmail.com"
+    opengraph = true
+    shareTwitter = true
+    shareFacebook = true
+    shareGooglePlus = true
+    shareLinkedIn = true
+    dateFormat = "Mon, Jan 2, 2006"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
