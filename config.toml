@@ -8,6 +8,10 @@ disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 publishDir = "docs"
 
+[Author]
+    name = "My Name"
+    profile = "https://github.com/timtrice"
+
 [permalinks]
     post = "/:year-:month-:day-:slug/"
 
