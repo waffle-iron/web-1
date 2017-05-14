@@ -17,8 +17,8 @@ publishDir = "docs"
 
 [Params]
     intro = true
-    headline = "My headline"
-    description = "Data Management and Analysis"
+    headline = "Tim Trice"
+    description = "Data Exploration, Management and Analysis"
     github = "https://github.com/timtrice"
     linkedin = "https://www.linkedin.com/in/timtrice/"
     twitter = "https://twitter.com/timtrice"
