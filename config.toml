@@ -9,7 +9,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 publishDir = "docs"
 
 [permalinks]
-    post = "/:year/:month/:day/:slug/"
+    post = "/:year-:month-:day-:slug/"
 
 [[menu.main]]
     name = "About"
