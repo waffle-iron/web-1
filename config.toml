@@ -15,16 +15,6 @@ publishDir = "docs"
 [permalinks]
     post = "/:year-:month-:day-:slug/"
 
-[[menu.main]]
-    name = "About"
-    url = "/about/"
-[[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/timtrice"
-[[menu.main]]
-    name = "Twitter"
-    url = "https://twitter.com/timtrice"
-
 [Params]
     intro = true
     headline = "My headline"
@@ -50,3 +40,17 @@ publishDir = "docs"
     MathJaxCDN = "//cdn.bootcss.com"
     MathJaxVersion = "2.7.1"
 
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
