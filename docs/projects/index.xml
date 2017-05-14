@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Tim Trice</title>
+    <link>/projects/index.xml</link>
+    <description>Recent content in Projects on Tim Trice</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>HURDAT</title>
+      <link>/projects/hurdat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/hurdat/</guid>
+      <description>&lt;div id=&#34;hurdat&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;HURDAT&lt;/h2&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hurricanes</title>
+      <link>/projects/hurricanes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/hurricanes/</guid>
+      <description>&lt;div id=&#34;hurricanes&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Hurricanes&lt;/h2&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>&lt;div id=&#34;hurricanes&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Hurricanes&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;../projects/hurricanes/&#34;&gt;Hurricanes&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;hurdat&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;HURDAT&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;../projects/hurdat/&#34;&gt;HURDAT&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

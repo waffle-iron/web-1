@@ -1,0 +1,16 @@
+---
+title: "Projects"
+author: "Tim Trice"
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Hurricanes
+
+[Hurricanes](/projects/hurricanes/)
+
+## HURDAT
+[HURDAT](/projects/hurdat/)
