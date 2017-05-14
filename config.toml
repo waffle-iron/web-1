@@ -9,7 +9,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 publishDir = "docs"
 
 [Author]
-    name = "My Name"
+    name = "Tim Trice"
     profile = "https://github.com/timtrice"
 
 [permalinks]
